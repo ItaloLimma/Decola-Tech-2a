@@ -1,0 +1,15 @@
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\bin\Debug\net6.0\PokedexCRUD.exe
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\bin\Debug\net6.0\PokedexCRUD.deps.json
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\bin\Debug\net6.0\PokedexCRUD.runtimeconfig.json
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\bin\Debug\net6.0\PokedexCRUD.dll
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\bin\Debug\net6.0\ref\PokedexCRUD.dll
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\bin\Debug\net6.0\PokedexCRUD.pdb
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\obj\Debug\net6.0\PokedexCRUD.csproj.AssemblyReference.cache
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\obj\Debug\net6.0\PokedexCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\obj\Debug\net6.0\PokedexCRUD.AssemblyInfoInputs.cache
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\obj\Debug\net6.0\PokedexCRUD.AssemblyInfo.cs
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\obj\Debug\net6.0\PokedexCRUD.csproj.CoreCompileInputs.cache
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\obj\Debug\net6.0\PokedexCRUD.dll
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\obj\Debug\net6.0\ref\PokedexCRUD.dll
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\obj\Debug\net6.0\PokedexCRUD.pdb
+C:\Users\ItaloLima\Documents\Italo Lima\Aulas C#\PokedexCRUD\obj\Debug\net6.0\PokedexCRUD.genruntimeconfig.cache
